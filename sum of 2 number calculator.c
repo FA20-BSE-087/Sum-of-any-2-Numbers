@@ -1,12 +1,12 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 int main()
 {
     int a;
+    printf("enter first number:");
     scanf("%i" ,&a);
 
     int b;
+    printf("enter second number:);
  scanf("%i",&b);
 
  int c=a+b;
